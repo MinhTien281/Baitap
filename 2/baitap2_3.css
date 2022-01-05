@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.thongtin img {
+    align-items: center;
+    justify-content: center;
+    width: 10%;
+}
+
+ul {
+    padding-top: 20px;
+    font-family: fantasy;
+    padding-bottom: 20px;
+}
+a {
+    text-decoration: none;
+    color: chartreuse;
+}
